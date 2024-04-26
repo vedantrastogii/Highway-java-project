@@ -1,4 +1,3 @@
 # Highway
-A Java game to drive your truck against other 2 trucks throughout the highway and compete to stay on the top of the leaderboard<br><br>
-
+"Highway" is a thrilling racing game that puts you behind the wheel of powerful vehicles hurtling down endless highways. With stunning graphics and immersive gameplay, you'll navigate through traffic, dodge obstacles, and race against competitors to reach the finish line.
 
